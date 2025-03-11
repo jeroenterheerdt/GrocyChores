@@ -1,0 +1,10 @@
+{
+  "domain": "grocy_chores",
+  "name": "Grocy Chores",
+  "codeowners": ["@jeroenterheerdt"],
+  "config_flow": true,
+  "documentation": "https://github.com/jeroenterheerdt/GrocyChores",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/jeroenterheerdt/GrocyChores/issues",
+  "version": "2025.3.0"
+}
